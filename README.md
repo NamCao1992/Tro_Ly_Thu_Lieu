@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot NAM PHONG
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
+Chương trình chatbot được tạo ra từ Nam Phong (https://pyan.vn/)
 
